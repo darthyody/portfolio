@@ -2,82 +2,57 @@ export default
     {
         //(Please Do Not Remove The comma(,) after every variable)
         //Change The Website Template
-        name :'chetanverma.',
+        name :'Joshua Michalik',
         headerTagline: [//Line 1 For Header
-                        'Hi 👋 You found me! I am Your Name.',
+                        'I\'m Joshua,',
                         //Line 2 For Header
-                        'Digital designer ',
+                        'a software developer ',
                         //Line 3 For Header
-                        'from India'
-    ],
-        //Contact Email
-        contactEmail:'hello@chetanverma.com',
-        // Add Your About Text Here
-        abouttext: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        aboutImage:'https://images.unsplash.com/photo-1521587765099-8835e7201186?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60',
-       //Change This To Hide The Image of About Section (True Or False)
-       ShowAboutImage:true,//true or false (Change Here)
-       // Change Projects Here 
-       projects:[
+                        'based in New England.'
+        ],
+        contactEmail:'joshuasmichalik@gmail.com',
+        abouttext: "Joshua is Web Application and Software Developer experienced in designing, developing, and deploying mobile and web applications used by small teams to millions of users on a daily basis.",
+        aboutImage:'false',
+        ShowAboutImage:false,
+        projects: [
            {
-            id: 1,//DO NOT CHANGE THIS (Please)😅
-            title:'Project One', //Project Title - Add Your Project Title Here
-             service:'UI/UX Design', // Add Your Service Type Here
-            //Project Image - Add Your Project Image Here
-             imageSrc:"https://images.unsplash.com/photo-1558104631-0fa41a8f6c20?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-             //Project URL - Add Your Project Url Here
-             url:'http://chetanverma.com/'
+                id: 1,//DO NOT CHANGE THIS (Please)😅
+                title:'Bass Resorts',
+                service:'Web App Development',
+                imageSrc: "https://bassresort.com/images/bass_resort_logo.jpg",
+                url:'http://bassresort.com'
             },
             {
                 id: 2,//DO NOT CHANGE THIS (Please)😅
-                title: 'Project Two',
-                service: 'Website Development',
-                imageSrc: "https://images.unsplash.com/photo-1554866585-cd94860890b7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-                url: 'http://chetanverma.com/'
+                title: 'RFMS Flooring',
+                service: 'Mobile App Development',
+                imageSrc: "https://www.rfms.com/wp-content/themes/rfms/assets/slider/tablet_phone_macbook.png",
+                url: 'http://rfms.com/'
             },
             { 
                 id: 3,//DO NOT CHANGE THIS (Please)😅
-                title: 'Project Three',
-                service: 'Web App',
-                imageSrc: "https://images.unsplash.com/photo-1511500118080-275313ec90a1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+                title: 'Preferred Marketing Group',
+                service: 'Mobile App Development',
+                imageSrc: "https://www.pmgnow.com/wp-content/themes/pmg-child/img/pmg-header-logo.png",
                 url: 'http://chetanverma.com/'
             },
             {
                 id: 4,//DO NOT CHANGE THIS (Please)😅
-                title: 'Project Four',
-                service: 'Branding',
-                imageSrc: "https://images.unsplash.com/photo-1558452919-08ae4aea8e29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-                url: 'http://chetanverma.com/'
+                title: 'B & D Pest Solutions',
+                service: 'Website Design & Development',
+                imageSrc: "https://bdpestsolutions.com/wp-content/uploads/2019/12/exterminator-nj.png",
+                url: 'http://bdpestsolutions.com/'
            }
-
-                    /*
-
-                    If You Want To Add More Project just Copy and Paste This At The End (Update the id Respectively)
-                ,{
-                id: 5,
-                title: 'Project Five',
-                service: 'Something Amazing',
-                imageSrc: "",
-                url: ''
-            }
-                */
         ],
         social: [
             // Add Or Remove The Link Accordingly
-            {   name:'Github',
-                url:'https://github.com/chetanverma16'},
             {
-                name: 'Behance',
-                url: 'https://www.behance.net/chetanverma'
+                name:'Github',
+                url:'https://github.com/darthyody'
             },
             {
-                name: 'Dribbble',
-                url: 'https://dribbble.com/chetanverma'
-            },
-            {
-                name: 'Instagram',
-                url: 'https://www.instagram.com/cv.uidesign/'
+                name: 'Twitter',
+                url: 'https://www.twitter.com/Euclid_Teaches'
             }
-
         ]
     }
