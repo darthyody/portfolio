@@ -4,7 +4,7 @@
     "occupation":"Expert Software Developer and Trainer",
     "description":"",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"Bio",
     "contactmessage":"When you have a project or just an idea, reach out to me and I'd be happy to help you take the next steps.",
     "email": "joshuasmichalik@gmail.com",
     "phone": "‪(860) 384-7644‬",
@@ -43,16 +43,10 @@
     "skillmessage":"Web application and software developer experienced in not only in programming, but also in expert-led training and large-scale team management.",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Brooklyn, NY Programming Class",
+        "degree":"Certificate in Software Development",
+        "graduated":"January 2014",
+        "description":"A once in a lifetime opportunity to be educated by the worldclass programmers bringing their A-game to future developers. We were taught a thorough foundation of object-oriented software development based in C# and JavaScript. During this course, we became familiar with everything from pseudocode and editors to SQL queries and HTTP requests, designing and building our own projects from the groundup day after day."
       }
     ],
     "work":[
@@ -60,12 +54,6 @@
         "company":"Awesome Design Studio",
         "title":"Senior UX God ",
         "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }
     ],
